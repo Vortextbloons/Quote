@@ -1,0 +1,20 @@
+#contaner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#contaner,h3{
+    font-size: 2.5em;
+    text-align: center;
+    
+}
+button{
+    margin-top: -100px;
+    font-size: 3em;
+    background-color: rgb(0, 162, 255);
+    display: flex;
+    position: relative;
+    margin: auto;
+    
+}
